@@ -17,6 +17,8 @@ final DatabaseReference usersReference = FirebaseDatabase.instance.reference().c
 DatabaseReference userReference;
 DatabaseReference chatListReference;
 
+String userName;
+
 void main() {
   runApp(new GreatestAppEver());
 }
