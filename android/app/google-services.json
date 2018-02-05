@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "418249598488",
+    "firebase_url": "https://morse-chat-a5ebe.firebaseio.com",
+    "project_id": "morse-chat-a5ebe",
+    "storage_bucket": "morse-chat-a5ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418249598488:android:3d208c6c18c3dcf7",
+        "android_client_info": {
+          "package_name": "cz.matejkripner.morsechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418249598488-cpe2rgrpk6n29213mnhjq01j977qvi71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.matejkripner.morsechat",
+            "certificate_hash": "461aa98030ba408fbbdefb4e21d51a7a1a5498b6"
+          }
+        },
+        {
+          "client_id": "418249598488-2lvuuuenqv7a6sk41v51h7fig8kga3s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.matejkripner.morsechat",
+            "certificate_hash": "503ac2b288537417b612eaccc153bc9d20350f6c"
+          }
+        },
+        {
+          "client_id": "418249598488-ledgrtpu45r0bdo70lpuev80rsqh73s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNGU2nyRrrTIg5l4yT9JWQw5Gzubf3Ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418249598488-ledgrtpu45r0bdo70lpuev80rsqh73s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
